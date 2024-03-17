@@ -1,12 +1,14 @@
-Deep Neural Networks and Artificial Intelligence
-This course is an elective offered by the Department of Control System and Instrumentation Engineering at King Mongkut's University of Technology Thonburi (KMUTT). It is taught by Assoc. Prof. Dr. Poj Tangamchit and covers the following core topics in 8 modules:
+# Deep Neural Networks and Artificial Intelligence
+This course is an elective offered by the Department of Control System and Instrumentation Engineering at King Mongkut's University of Technology Thonburi (KMUTT). 
 
-Search Techniques
-Concepts of Neural Networks and Machine Learning
-Fully-connected Neural Networks
-Convolutional Neural Networks
-Recurrent Neural Networks
-Autoencoders
-Generative Models
-Reinforcement Learning
-This GitHub repository contains various exercises that I have completed for my own review and for others who wish to learn more. If you have any questions, please contact me at m.chansinee@gmail.com.
+It is taught by Assoc. Prof. Dr. Poj Tangamchit and covers the following core topics in 8 modules:
+1. Search Techniques
+2. Concepts of Neural Networks and Machine Learning
+3. Fully-connected Neural Networks
+4. Convolutional Neural Networks
+5. Recurrent Neural Networks
+6. Autoencoders
+7. Generative Models
+8. Reinforcement Learning
+
+This GitHub repository contains various exercises that I have completed for my own review and for others who wish to learn more. If you have any questions, please contact me at m.chansinee@gmail.com
